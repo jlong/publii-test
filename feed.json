@@ -13,8 +13,8 @@
             "id": "http://wiseheartdesign.com/publii-test/first-post.html",
             "url": "http://wiseheartdesign.com/publii-test/first-post.html",
             "title": "First post",
-            "summary": "This is my first post!",
-            "content_html": "This is my first post!",
+            "summary": "This is my first post! With some changes!",
+            "content_html": "<p>This is my first post!</p>\n<p>With some changes!</p>",
             "image": "http://wiseheartdesign.com/publii-test/media/posts/1/",
             "author": {
                 "name": "John"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2018-08-27T13:23:09-04:00",
-            "date_modified": "2018-08-27T13:23:09-04:00"
+            "date_modified": "2018-08-27T14:27:24-04:00"
         }
     ]
 }
