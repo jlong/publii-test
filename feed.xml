@@ -3,12 +3,34 @@
     <title>Publii Test</title>
     <link href="http://wiseheartdesign.com/publii-test/feed.xml" rel="self" />
     <link href="http://wiseheartdesign.com/publii-test" />
-    <updated>2018-08-27T15:14:02-04:00</updated>
+    <updated>2018-08-27T15:14:47-04:00</updated>
     <author>
         <name>John</name>
     </author>
     <id>http://wiseheartdesign.com/publii-test</id>
 
+    <entry>
+        <title>Another post</title>
+        <author>
+            <name>John</name>
+        </author>
+        <link href="http://wiseheartdesign.com/publii-test/Another-post.html"/>
+        <id>http://wiseheartdesign.com/publii-test/Another-post.html</id>
+
+        <updated>2018-08-27T15:14:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://wiseheartdesign.com/publii-test/media/posts/2/" alt="" />
+                    Yep, just testing here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://wiseheartdesign.com/publii-test/media/posts/2/" alt="" />
+                Yep, just testing here.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First post</title>
         <author>

@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://wiseheartdesign.com/publii-test/Another-post.html",
+            "url": "http://wiseheartdesign.com/publii-test/Another-post.html",
+            "title": "Another post",
+            "summary": "Yep, just testing here.",
+            "content_html": "Yep, just testing here.",
+            "image": "http://wiseheartdesign.com/publii-test/media/posts/2/",
+            "author": {
+                "name": "John"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-27T15:14:42-04:00",
+            "date_modified": "2018-08-27T15:14:42-04:00"
+        },
+        {
             "id": "http://wiseheartdesign.com/publii-test/first-post.html",
             "url": "http://wiseheartdesign.com/publii-test/first-post.html",
             "title": "First post",
