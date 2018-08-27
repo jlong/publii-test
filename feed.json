@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Publii Test",
     "description": "",
-    "home_page_url": "http://wiseheartdesign.com/publii-test",
-    "feed_url": "http://wiseheartdesign.com/publii-test/feed.json",
+    "home_page_url": "http://wiseheartdesign.com",
+    "feed_url": "http://wiseheartdesign.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "John"
     },
     "items": [
         {
-            "id": "http://wiseheartdesign.com/publii-test/first-post.html",
-            "url": "http://wiseheartdesign.com/publii-test/first-post.html",
+            "id": "http://wiseheartdesign.com/first-post.html",
+            "url": "http://wiseheartdesign.com/first-post.html",
             "title": "First post",
             "summary": "This is my first post! With some changes!",
             "content_html": "<p>This is my first post!</p>\n<p>With some changes!</p>",
-            "image": "http://wiseheartdesign.com/publii-test/media/posts/1/",
+            "image": "http://wiseheartdesign.com/media/posts/1/",
             "author": {
                 "name": "John"
             },
