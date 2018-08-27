@@ -10,19 +10,34 @@
     },
     "items": [
         {
+            "id": "http://wiseheartdesign.com/publii-test/One-more.html",
+            "url": "http://wiseheartdesign.com/publii-test/One-more.html",
+            "title": "One more",
+            "summary": "A change",
+            "content_html": "A change",
+            "image": "http://wiseheartdesign.com/publii-test/media/posts/5/",
+            "author": {
+                "name": "John"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-27T15:27:44-04:00",
+            "date_modified": "2018-08-27T15:27:44-04:00"
+        },
+        {
             "id": "http://wiseheartdesign.com/publii-test/Another-post.html",
             "url": "http://wiseheartdesign.com/publii-test/Another-post.html",
             "title": "Another post",
             "summary": "Yep, just testing here.",
             "content_html": "Yep, just testing here.",
-            "image": "http://wiseheartdesign.com/publii-test/media/posts/2/",
+            "image": "http://wiseheartdesign.com/publii-test/media/posts/2/paykyb-8er8-ian-schneider.jpg",
             "author": {
                 "name": "John"
             },
             "tags": [
             ],
             "date_published": "2018-08-27T15:14:42-04:00",
-            "date_modified": "2018-08-27T15:14:42-04:00"
+            "date_modified": "2018-08-27T15:27:14-04:00"
         },
         {
             "id": "http://wiseheartdesign.com/publii-test/first-post.html",
