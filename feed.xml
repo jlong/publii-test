@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Publii Test</title>
-    <link href="http://wiseheartdesign.com/feed.xml" rel="self" />
-    <link href="http://wiseheartdesign.com" />
-    <updated>2018-08-27T15:02:01-04:00</updated>
+    <link href="http://wiseheartdesign.com/publii-test/feed.xml" rel="self" />
+    <link href="http://wiseheartdesign.com/publii-test" />
+    <updated>2018-08-27T15:02:56-04:00</updated>
     <author>
         <name>John</name>
     </author>
-    <id>http://wiseheartdesign.com</id>
+    <id>http://wiseheartdesign.com/publii-test</id>
 
     <entry>
         <title>First post</title>
         <author>
             <name>John</name>
         </author>
-        <link href="http://wiseheartdesign.com/first-post.html"/>
-        <id>http://wiseheartdesign.com/first-post.html</id>
+        <link href="http://wiseheartdesign.com/publii-test/first-post.html"/>
+        <id>http://wiseheartdesign.com/publii-test/first-post.html</id>
 
         <updated>2018-08-27T14:27:24-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://wiseheartdesign.com/media/posts/1/" alt="" />
+                        <img src="http://wiseheartdesign.com/publii-test/media/posts/1/" alt="" />
                     This is my first post! With some changes!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://wiseheartdesign.com/media/posts/1/" alt="" />
+                    <img src="http://wiseheartdesign.com/publii-test/media/posts/1/" alt="" />
                 <p>This is my first post!</p>
 <p>With some changes!</p>
             ]]>
